@@ -3,6 +3,8 @@
 
 Run:
 
-   $ npm install
-   $ node druid-api.js
+```
+$ npm install
+$ node druid-api.js
+```
 
