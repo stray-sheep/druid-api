@@ -1,0 +1,23 @@
+{
+  "name": "druid-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "druid-api.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^5.0.5",
+    "mongoose": "^4.1.7",
+    "morgan": "^1.6.1",
+    "restify": "^4.0.2",
+    "restify-jwt": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "hippie": "^0.4.0",
+    "mocha": "^2.3.2"
+  }
+}
